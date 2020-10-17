@@ -1,0 +1,13 @@
+C:\Gary\vc tools\pc_tool\pc_tool\bin\Debug\pc_tool.exe.config
+C:\Gary\vc tools\pc_tool\pc_tool\obj\Debug\pc_tool.csprojResolveAssemblyReference.cache
+C:\Gary\vc tools\pc_tool\pc_tool\obj\Debug\pc_tool.Form1.resources
+C:\Gary\vc tools\pc_tool\pc_tool\obj\Debug\pc_tool.Form2.resources
+C:\Gary\vc tools\pc_tool\pc_tool\obj\Debug\pc_tool.Properties.Resources.resources
+C:\Gary\vc tools\pc_tool\pc_tool\obj\Debug\pc_tool.csproj.GenerateResource.Cache
+C:\Gary\vc tools\pc_tool\pc_tool\bin\Debug\pc_tool.exe
+C:\Gary\vc tools\pc_tool\pc_tool\bin\Debug\pc_tool.pdb
+C:\Gary\vc tools\pc_tool\pc_tool\obj\Debug\pc_tool.exe
+C:\Gary\vc tools\pc_tool\pc_tool\obj\Debug\pc_tool.pdb
+C:\Gary\vc tools\pc_tool\pc_tool\obj\Debug\pc_tool.para.resources
+C:\Gary\vc tools\pc_tool\pc_tool\obj\Debug\pc_tool.hall.resources
+C:\Gary\vc tools\pc_tool\pc_tool\obj\Debug\pc_tool.about.resources
